@@ -1,31 +1,6 @@
 # NeteaseCloudMusic
 
 #### React Native 模仿网易云音乐手机客户端，兼容安卓和IOS两个平台。
-
-> GitHub 完整源码地址[https://github.com/yezihaohao/NeteaseCloudMusic](https://github.com/yezihaohao/NeteaseCloudMusic)
-
-老规矩，先上图~😄
-
-#### 总览 
-![全图](https://raw.githubusercontent.com/yezihaohao/yezihaohao.github.io/master/imgs/total.gif)
-
-#### 音乐播放 
-![音乐播放](https://raw.githubusercontent.com/yezihaohao/yezihaohao.github.io/master/imgs/player.gif)
-
-<!--more-->
-
-#### 视频播放 
-![视频播放](https://raw.githubusercontent.com/yezihaohao/yezihaohao.github.io/master/imgs/video.gif)
-
-#### 歌曲列表 
-![歌曲列表](https://raw.githubusercontent.com/yezihaohao/yezihaohao.github.io/master/imgs/playlist.png)
-
-#### 用户界面 
-![用户界面](https://raw.githubusercontent.com/yezihaohao/yezihaohao.github.io/master/imgs/user.gif)
-
-#### 电台详情
-![电台详情](https://raw.githubusercontent.com/yezihaohao/yezihaohao.github.io/master/imgs/radio.gif)
-
 #### 主要的技术栈和依赖第三方库：
 
 点击名称可跳转相关项目网站😄😄
